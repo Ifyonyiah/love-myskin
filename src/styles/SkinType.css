@@ -50,7 +50,7 @@
   a,
   .skinItem h1,
   .skinItem p {
-    margin-left: 5px;
+    text-align: center;
     color: black;
     text-decoration: none;
   }
