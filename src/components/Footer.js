@@ -11,7 +11,7 @@ function Footer() {
     <div className='footer'>
          <section className='subscribe'>
         <p className='sub-heading'>
-        Join the Love My Skin newsletter to receive our reccomended products for healthy skin!</p>
+        Join the Love My Skin newsletter to receive our recommended products for healthy skin!</p>
         <div className='input-area'>
             <form id="subForm" method="POST">
                 <input
